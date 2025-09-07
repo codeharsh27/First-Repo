@@ -1,16 +1,31 @@
-# webapp
+# Simple Login App
 
-A new Flutter project.
+A simple and clean Flutter mobile application featuring a basic login screen and a home page. This project is built for beginners to learn how navigation and UI design works in Flutter.
 
-## Getting Started
+![Login Screen](assets/screenshots/login_screen.png)
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Beautiful login screen UI
+- Username and password input fields
+- Navigation to Home screen on login
+- Flutter-based mobile frontend only (no backend or authentication logic)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- A code editor like [VS Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/simple-login-app.git
+   cd simple-login-app
